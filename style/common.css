@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+ }
+
+main {
+  display: flex;
+  background-color: #ddd;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#section_encryptation {
+  position: absolute;
+  width: 800px;
+  height: 400px;
+}
+
+#output_default {
+  box-sizing: border-box;
+  font-size: 2em;
+  width: 800px;
+  height: 400px;
+  margin: 0;
+  padding: 50px;
+  border-radius: 100px;
+}
+
+.btt_common {
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  height: 100px;
+}
+
+#btt_clean {
+  top: -50px;
+  left: 350px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+#btt_default {
+  width: 300px;
+  bottom: -50px;
+  left: 250px;
+  border-radius: 50px;
+}
