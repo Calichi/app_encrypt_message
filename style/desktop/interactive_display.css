@@ -1,0 +1,17 @@
+#output_default {
+  box-sizing: border-box;
+  font-size: 2em;
+  width: 800px;
+  height: 400px;
+  padding: 50px;
+  border-radius: 100px;
+  background-color: #333a;
+  background-image: url('../../img/ico_key.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  border-style: none;
+  color: #0c3;
+  font-weight: bold;
+  box-shadow: 0em 0em 0.2em 0.05em #aaa;
+  resize: none;
+}

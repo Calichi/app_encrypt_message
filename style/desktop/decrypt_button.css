@@ -1,0 +1,9 @@
+.btt_decrypt {
+  background-color: #fa0;
+  color: #830;
+}
+
+.btt_decrypt:active {
+  background-color: #fc0;
+  box-shadow: 0 0 0.3em 0.2em #da0a;
+}

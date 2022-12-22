@@ -1,0 +1,9 @@
+.btt_encrypt {
+  background-color: #60dd60;
+  color: #252;
+}
+
+.btt_encrypt:active {
+  background-color: #80ff80;
+  box-shadow: 0 0 0.3em 0.2em #5f5a;
+}
