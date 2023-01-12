@@ -1,0 +1,8 @@
+/*Este archivo contiene el código de estilo del elemento <textarea id="output_default">*/
+
+#output_default {
+  width: 350px;
+  height: 450px;
+  padding: 50px;
+  border-radius: 87.5px;
+}

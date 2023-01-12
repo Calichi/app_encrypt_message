@@ -1,0 +1,11 @@
+#btt_clean {
+  background-color: #fdd;
+  background-image: url('../../img/ico_clean.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#btt_clean:active {
+  background-color: #f88;
+  box-shadow: 0 0 0.3em 0.2em #f55a;
+}

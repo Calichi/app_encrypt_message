@@ -1,3 +1,10 @@
+@import './common/encryption_panel.css';
+@import './common/interactive_display.css';
+@import './common/common_button.css';
+@import './common/clean_button.css';
+@import './common/encrypt_button.css';
+@import './common/decrypt_button.css';
+
 body {
   margin: 0;
  }

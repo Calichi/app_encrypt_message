@@ -1,0 +1,10 @@
+.btt_common {
+  height: 60px;
+}
+
+#btt_default {
+  bottom: -30px;
+  left: 75px;
+  width: 200px;
+  border-radius: 30px;
+}
